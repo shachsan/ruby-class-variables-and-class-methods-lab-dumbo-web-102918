@@ -18,7 +18,7 @@ class Song
   end
 
   def self.genres
-    @@genres
+    @@genres.each 
   end
 
   def self.artists
