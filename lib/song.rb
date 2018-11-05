@@ -1,4 +1,4 @@
 class Song
 
-  def initialize
+  def initialize(name,)
 end
